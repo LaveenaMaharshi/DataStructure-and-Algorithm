@@ -1,0 +1,8 @@
+Insertion, Selection,Bubble,Quick,Merge, Redix, heap
+inplace sorting, out place sorting - depending on using new array
+stable sorting, unstable sorting- all sorting are stable sorting
+Adaptive and non Adaptive sorting-
+depending on time complexity
+
+
+//Iterator class to display the the array
